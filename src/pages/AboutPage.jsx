@@ -8,7 +8,7 @@ function AboutPage(props) {
         <Card>
             <div className='about'>
                 <h1>About This Application</h1>
-                <p>A simple ReactJS application to add feedback for a product or a service.</p>
+                <p>A simple CRUD ReactJS application to add feedback for a product or a service.</p>
                 <p>Version: 1.0.0</p>
                 <p>&#169; Cody Fingerson</p>
                 <p>
